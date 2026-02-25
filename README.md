@@ -1,4 +1,4 @@
-# Olá, Me chamo Thiago Piazentin mais conhecido como Daflores! 👋
+# Olá, Me chamo Thiago Piazentin! 👋
 
 ## 🧠 Sobre mim
 
