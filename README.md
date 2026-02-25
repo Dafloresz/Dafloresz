@@ -2,10 +2,10 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento backend. 
-Tenho experiência com construção de aplicações em Java, trabalhando com persistência de dados, organização de código e boas práticas.
+Estudante de Engenharia de Software com foco em desenvolvimento backend. Experiência na construção de aplicações Java utilizando boas práticas, arquitetura em camadas e persistência de dados. 
+Buscando evoluir em sistemas escaláveis e explorar tecnologias emergentes como Blockchain e Smart Contracts.
 
-Estou aprofundando meus estudos em banco de dados, arquitetura de sistemas e tecnologias emergentes como Blockchain. Atualmente estudo a linguagem Move, voltada para desenvolvimento de smart contracts.
+Atualmente estou aprofundando meus estudos em banco de dados, arquitetura de sistemas e tecnologias emergentes como Blockchain. Atualmente estudo a linguagem Move, voltada para desenvolvimento de smart contracts.
 
 ---
 ## 🛠️ Tecnologias & Ferramentas
@@ -41,26 +41,17 @@ Estou aprofundando meus estudos em banco de dados, arquitetura de sistemas e tec
   <img src="https://img.shields.io/badge/Blockchain-121013?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain" />
   <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logoColor=white" alt="Web3" />
   <img src="https://img.shields.io/badge/Smart_Contracts-4A90E2?style=for-the-badge&logoColor=white" alt="Smart Contracts" />
-  <img src="https://img.shields.io/badge/Move-4A90E2?style=for-the-badge&logoColor=white" alt="Move (Aptos / Sui)" />
+  <img src="https://img.shields.io/badge/Move-4A90E2?style=for-the-badge&logoColor=white" alt="Move (Sui)" />
 </div>
 
-> Focado em backend com **Java + Spring Boot**, explorando **Web3** e **Move** no tempo livre. Sempre aprendendo e codando! 🚀
-
 ### 📚 Atualmente estudando
-
-### 🖥️ Backend e Engenharia de Software
-- Desenvolvimento backend com **Java**
-- Programação Orientada a Objetos (modelagem de entidades, encapsulamento e validações)
-- Estruturação de aplicações em camadas
-- Boas práticas e separação de responsabilidades
 
 ### 🗄️ Persistência e Banco de Dados
 - Implementação de **CRUD** com JDBC
 - Mapeamento Objeto-Relacional com JPA / Hibernate
 - Integração com banco de dados relacional (MySQL)
-- Comparação arquitetural entre JDBC, JPA e Spring Boot
 
-- ### 🔗 Blockchain
+### 🔗 Blockchain
 - Fundamentos de Blockchain
 - Desenvolvimento com a linguagem Move
 - Conceitos de Smart Contracts
@@ -72,7 +63,15 @@ Estou aprofundando meus estudos em banco de dados, arquitetura de sistemas e tec
 - Contribuir em repositórios open-source  
 - Melhorar habilidades de Clean Code e refatoração
 
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dafloresz&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Thiago no GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dafloresz&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas pelo Thiago" height="150"/>
+</div>
+
 ### 📫 Onde me encontrar
 
+- **GitHub**: https://github.com/Dafloresz
 - **Linkedin**: https://www.linkedin.com/in/thiagopiazentin/
 - Email: thiagopiazentin3@outlook.com
