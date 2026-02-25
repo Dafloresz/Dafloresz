@@ -65,10 +65,10 @@ Atualmente estou aprofundando meus estudos em banco de dados, arquitetura de sis
 
 ### 📊 Minhas Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dafloresz&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Thiago no GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dafloresz&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas pelo Thiago" height="150"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dafloresz&show_icons=true&theme=radical&hide_border=true" alt="Minhas estatísticas" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dafloresz&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="180px"/>
+</p>
 
 ### 📫 Onde me encontrar
 
